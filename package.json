@@ -1,0 +1,26 @@
+{
+  "name": "assembleiavirtual",
+  "version": "0.0.0",
+  "description": "um ambiente para CA's e DA's, provendo votações, discussões e manejo de eventos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrolifero/assembleiaVirtual.git"
+  },
+  "keywords": [
+    "estudantil",
+    "diretorio",
+    "academico",
+    "centro",
+    "academico"
+  ],
+  "author": "João Pedro Abreu de Souza",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/petrolifero/assembleiaVirtual/issues"
+  },
+  "homepage": "https://github.com/petrolifero/assembleiaVirtual#readme"
+}
